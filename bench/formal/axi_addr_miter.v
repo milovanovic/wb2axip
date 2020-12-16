@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: Apache-2.0
+
 module	axi_addr_miter(i_last_addr, i_size, i_burst, i_len);
 	parameter	AW = 32,
 			DW = 32;

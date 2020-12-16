@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: Apache-2.0
+
 ////////////////////////////////////////////////////////////////////////////////
 //
 // Filename: 	faxi_slave.v (Formal properties of an AXI4 (full) slave)

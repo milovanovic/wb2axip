@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: Apache-2.0
+
 ////////////////////////////////////////////////////////////////////////////////
 //
 // Filename: 	saxi_slave.v (Simulation properties of an AXI4 (full) slave)

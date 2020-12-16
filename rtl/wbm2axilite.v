@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: Apache-2.0
+
 ////////////////////////////////////////////////////////////////////////////////
 //
 // Filename: 	wbm2axilite.v (Wishbone master to AXI slave, pipelined)

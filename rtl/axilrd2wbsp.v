@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: Apache-2.0
+
 ////////////////////////////////////////////////////////////////////////////////
 //
 // Filename: 	axilrd2wbsp.v (AXI lite to wishbone slave, read channel)

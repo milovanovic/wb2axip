@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: Apache-2.0
+
 ////////////////////////////////////////////////////////////////////////////////
 //
 // Filename: 	faxil_master.v (Formal properties of an AXI lite master)
